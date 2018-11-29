@@ -8,6 +8,7 @@ public class cont {
 	for (int i = 0; i < 101; i++) {
 		num ++;
 	
+		
 		System.out.println(num);
 		
 	}
